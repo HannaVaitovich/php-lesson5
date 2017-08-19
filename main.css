@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+table {
+border-collapse: collapse;
+margin: 0;
+padding: 0;
+background-color: #CBD1CF;
+font-family: sans-serif;
+}
+table tr td,
+table tr th {
+	border: 1px solid black;
+	padding: 10px;
+}

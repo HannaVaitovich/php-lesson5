@@ -1,0 +1,44 @@
+[
+{
+  "firstName": "Ivan",
+  "lastName": "Ivanov",
+  "address": "2 Alieva St. Moscow",
+  "phoneNumber": "812 123-1234"
+},
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "address": "123 Main St. Dallas, TX",
+  "phoneNumber": "214-123-1234"
+},
+{
+  "firstName": "Bob",
+  "lastName": "Williams",
+  "address": "1 Parker St. Dallas, TX",
+  "phoneNumber": "817-123-1234"
+},
+{
+  "firstName": "Larry",
+  "lastName": "King",
+  "address": "333 Ellis Ave.. Dallas, TX",
+  "phoneNumber": "972-123-1234"
+},
+{
+  "firstName": "Jessica",
+  "lastName": "Smith",
+  "address": "123 Main St. Dallas, TX",
+  "phoneNumber": "214-123-1234"
+},
+{
+  "firstName": "Natalie",
+  "lastName": "Williams",
+  "address": "1 Parker St. Dallas, TX",
+  "phoneNumber": "817-123-1234"
+},
+{
+  "firstName": "Emily",
+  "lastName": "King",
+  "address": "333 Ellis St. Dallas, TX",
+  "phoneNumber": "972-123-1234"
+}
+]
